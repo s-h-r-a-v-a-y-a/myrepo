@@ -1,0 +1,109 @@
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+
+#MyTable tbody{
+    width: 100%;
+    font-size: 15px;
+    color: blueviolet;
+}
+
+/* 
+#MyTable > tbody > tr {
+
+    background-color: red;
+} */
+
+.text-color {
+    color: #1d1d1d;
+    background-color: #0c0c0c;
+    opacity: 0.5;
+    padding:50px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    color:white;
+   
+    
+ 
+}
+
+
+
+.borderDemo{
+    border:2px solid red;
+    padding: 50px;
+    border-radius: 120px; 
+    width: 5%;
+    height: 60px;
+
+
+}
+
+.btn-group{
+    margin-top: 20px;
+}
+
+button{
+
+    width:50px;
+    
+
+}
+
+.class1:hover{
+    width: 60px;
+   
+    position: relative;
+    top: -9px;
+}
+
+.class2:hover{
+    width: 60px;
+    position: relative;
+    top: -9px;
+}
+
+.class3:hover{
+    width: 60px;
+    position: relative;
+    top: -9px;
+}
+
+
+.class3:focus{
+   background-color: red;
+}
+
+input:focus-visible{
+
+ outline-color: black;
+ outline-width: 0px;
+ background-color: yellow;
+
+}
+
+.card{
+    background-color: aqua;
+}
+
+.card:hover{
+    position: relative;
+    top:2px;
+}
+
+/**
+
+1-border-color
+2-boder-width
+3-border-style
+4-border-radius
+
+**/
+
+.hide {
+    display: none;
+}

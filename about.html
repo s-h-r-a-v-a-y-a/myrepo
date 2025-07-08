@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        .city {
+            background-color: tomato;
+            color: white;
+            border: 2px solid black;
+            margin: 20px;
+            padding: 20px;
+        }
+
+        .green {
+
+            color: green;
+
+        }
+
+        .top{
+            margin-top: 13px;
+        }
+
+       
+    </style>
+</head>
+
+<body>
+    <nav>
+        <li>Tag</li>
+    </nav>
+
+    <form>
+    <div>
+        <label>FirstName </label><input type="text" placeholder="Enter your name" name="firstName" required="true">
+    </div>
+
+    <div class="top">
+        <label>Email </label><input type="email" placeholder="Enter your name" name="email" >
+    </div>
+
+    <div class="top">
+        <label>date of birth </label><input type="date" placeholder="Enter your name" required="true" name="dob">
+    </div>
+
+    <div class="top"> 
+        <label>birth time</label><input type="time" placeholder="Enter your name" name="btime">
+    </div>
+
+    <div class="top">
+        <label>Gender</label><input type="radio" value="Male" name="gender">Male <input type="radio" value="Female"
+            name="gender" checked="true">Female <input type="radio" value="Other" name="gender">Other
+    </div>
+
+    <div class="top">
+        <label>Hobbies</label><input type="checkbox" value="Cricket" name="hobbies">Cricket <input type="checkbox"
+            value="Female" name="hobbies" checked="true">Football
+    </div>
+
+    <div class="top">
+
+        <label>Degree</label>
+        <select name="degree">
+
+            <option>Select Degree</option>
+            <option value="Bachelor">Bachelor</option>
+            <option value="Master">Master</option>
+
+        </select>
+
+    </div>
+
+    <textarea></textarea>
+
+    <button type="submit">Submit</button>
+
+</form>
+
+<div><span>Footer</span></div>
+</body>
+
+</html>

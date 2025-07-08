@@ -1,0 +1,124 @@
+Otivo.com Like Application
+
+
+1-In this application we have no of pages
+
+A)Dashboard
+
+-Financial Summary
+a)Text of summary
+b)Salary and Super 
+-Salary package (including super)
+-Employer super contribution rate
+-Compulsory employer super contribution
+-Salary sacrifice
+-Concessional contributions (current financial year)
+-Total employer super contributions
+-Salary (excluding super)
+-Has the Australian Tax Office advised that you have an excess contribution for June 30, 2024?
+The ATO sends you a determination letter with details of what you need to do if you exceed a contribution cap (concessional or non-concessional).
+
+
+
+c)Other Income (Per year)
+
+This is your other annual income outside of your salary. You can add or modify other income in the Assets section below.
+
+Cash
+
+
+
+d)Taxable income
+
+-TAXABLE INCOME
+-MEDICARE LEVY (EXCLUDES SURCHARGE)
+-TOTAL TAX PAYABLE
+
+Total income (after tax and super)
+-ANNUAL INCOME
+-MONTHLY INCOME
+
+E)EXPENSES
+-ANNUAL EXPENSES
+-MONTHLY EXPENSES
+
+F)TOTAL NET INCOME (AFTER TAX, SUPER + EXPENSES)
+-NET ANNUAL INCOME
+-NET MONTHLY INCOME
+
+G)ASSETS
+-AMP MYNORTH SUPER
+-OTHER ASSETS(DYNAMIC)
+
+A)ASSET TYPE
+B)VALUE
+C)ANNUAL INCOME
+
+
+H)TOTAL ASSESTS
+
+TOTAL ASSETS 
+
+I)DEBT
+1-NAME
+2-BALANCE
+3-INTEREST
+4-ISCARDPAID MONTLY TRUE/FALSE
+
+
+H)MY MORTGAGE
+1-NAME
+2-BALANCE
+3-INTEREST
+4-OFFSET
+Is this an investment property? True/FALSE
+
+
+I) ADD LOAN
+
+a)Debt type
+i-car loan
+ii-investment loan
+Iii-personal loan
+b)Name
+c)Balance
+
+J)Total Debt
+
+
+Net Wealth
+1-Net wealth
+2-total assists
+3-total debt
+
+Your total assets
+$200,000
+Your total debt
+$0
+Total net wealth
+$200,000
+
+
+
+
+What advice should I take today?
+Want to know what you should be doing next? Here's all our advice in one spot. Make sure you come back, because as your life changes, our advice automatically changes with you.
+1-Dashboard
+2-Debt plan (How we are going to manage this)
+3-Super(How we are going to manage this)
+4-Insurance(How we are going to manage this)
+
+4-User Profile contains
+Retirement info
+Partner info (need to get details)
+Pricing plan (need to decide after deployment)
+Need to download statement of advice need to know if we have to customize that
+
+a)Tech Stack
+We are using microservice architech F
+-Backend
+1-Nest JS
+2-Fast API (For Batch processing AI handling)
+
+-Frontend
+1-Nest JS
